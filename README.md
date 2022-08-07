@@ -1,3 +1,3 @@
 # Demo
 demo 1 repo
-This is master read me
+This is RC read me
